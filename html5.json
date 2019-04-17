@@ -1,0 +1,18 @@
+{
+    "html5 document":  {
+		"scope":"html",
+		"prefix": "html5doc",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html>",
+			"<head>",
+			"<meta charset='UTF-8'>",
+			"<title>'$1'</title>",
+			"</head>",
+			"<body>",
+			"</body>",
+			"</html>"
+		],
+		"description": "Documento de html 5 cuerpo"
+	}
+}

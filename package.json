@@ -1,0 +1,22 @@
+    
+{
+	"name": "HTML 5 snippet",
+	"displayName": "HTML5 Snippet automate",
+	"description": "HTML5 Snippet automate",
+	"version": "0.0.1",
+	"publisher": "Juan Tomas Ortiz",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./html5.json"
+			}
+		]
+	}
+}
