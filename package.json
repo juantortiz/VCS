@@ -16,6 +16,10 @@
 			{
 				"language": "html",
 				"path": "./html5.json"
+			},
+			{
+				"language": "html,php",
+				"path": "./phphtml.json"
 			}
 		]
 	}

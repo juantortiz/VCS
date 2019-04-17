@@ -1,0 +1,18 @@
+{
+    "php with html 5 echo":  {
+		"scope":"php",
+		"prefix": "phphtml5",
+		"body": [
+			"echo '<!DOCTYPE html>';",
+			"echo '<html>';",
+			"echo '<head>';",
+			"echo '<meta charset=\'UTF-8\'>';",
+			"echo '<title>'$1'</title>';",
+			"echo '</head>';",
+			"echo '<body>';",
+			"echo '</body>';",
+			"echo '</html>';"
+		],
+		"description": "Documento de PHP con HTML"
+	}
+}

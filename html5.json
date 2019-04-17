@@ -1,6 +1,6 @@
 {
     "html5 document":  {
-		"scope":"html",
+		"scope":"html,php",
 		"prefix": "html5doc",
 		"body": [
 			"<!DOCTYPE html>",
