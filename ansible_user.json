@@ -1,0 +1,16 @@
+{
+    "ansible yml snippet":  {
+		"scope":"yml",
+		"prefix": "ansible",
+		"body": [
+			"---",
+			"- name: Command Playbook",
+			"gather_facts: false",
+			"hosts: gitlab",
+			"tasks:",
+			"- name: 'install gitlab'",
+			"command: yum install -y gitlab-ee"
+		],
+		"description": "Documento de PHP con HTML"
+	}
+}
